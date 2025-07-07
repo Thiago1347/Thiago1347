@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Transformo <strong>operações em performance</strong> com tecnologia de alto nível.<br>
-🌐 Desenvolvedor focado em sites, sistemas financeiros e automações com Node.js e Electron.
+🌐 Desenvolvedor focado em sites,automações com Node.js e Electron.
 </p>
 
 ---
